@@ -14,6 +14,8 @@
   <tr>
     <td><img src="images/IMG20260727132803.jpg" alt="实物图1" width="260"></td>
     <td><img src="images/1785130332348_IMG20260727132623.jpg" alt="实物图2" width="260"></td>
+    <td><img src="images/IMG20260727132924.jpg" alt="实物图3" width="260"></td>
+    <td><img src="images/IMG20260727132917.jpg" alt="实物图4" width="260"></td>
   </tr>
 </table>
 
